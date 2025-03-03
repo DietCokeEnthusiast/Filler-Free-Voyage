@@ -4,6 +4,6 @@
 
 
 
-#UPDATE3/1 progress made, some slight styling to the search page and the home pagee. NavBar adjusted and timeline created for Arcs of the series. Next Update will contain transforming this into a react application.
+#UPDATE3/1 progress made, some slight styling to the search page and the home pagee. NavBar adjusted and timeline created for Arcs of the series. Next Update will contain transforming this into a React application.
 
 
